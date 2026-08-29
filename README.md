@@ -8,7 +8,7 @@ A simple Twitter/X-inspired social media web application built with JavaScript a
 * Like posts
 * Retweet posts
 * Reply to posts
-* Responsive and simple UI
+* Simple UI
 * Dynamic content rendering with JavaScript
 
 ## Tech Stack
